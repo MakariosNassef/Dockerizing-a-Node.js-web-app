@@ -1,3 +1,4 @@
+# .dockerignore allows you to specify a list of files or directories that Docker is to ignore during the build process.
 # This will prevent local modules and debug logs from being copied onto Docker image and possibly overwriting modules installed within image.
 
 node_modules
