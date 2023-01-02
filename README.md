@@ -1,8 +1,8 @@
 # Dockerizing-a-Node.js-web-app
 
-1- Create the Node.js app
-2- reate a server.js file that defines a web app using the Express.js framework
-3- Creating a Dockerfile
+- 1- Create the Node.js app
+- 2- reate a server.js file that defines a web app using the Express.js framework
+- 3- Creating a Dockerfile
 
 ### you need to make this steps to run app 
 ### 1- Building your image
