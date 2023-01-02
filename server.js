@@ -1,4 +1,5 @@
 // that defines a web app using the Express.js framework:
+// Express.js, or simply Express, is a back end web application framework for building RESTful APIs with Node.js
 
 'use strict';
 const express = require('express');
